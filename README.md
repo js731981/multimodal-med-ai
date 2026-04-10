@@ -6,7 +6,7 @@
 
 # Multimodal Medical AI
 
-Educational demo system for **multimodal chest X-ray + clinical text** inference: a FastAPI backend, optional **RAG** explanations from a built-in medical knowledge base, a **Streamlit** UI with follow-up chat, and **Redis-backed session memory** (with in-memory fallback).
+An end-to-end AI system that combines computer vision, clinical NLP, RAG-based reasoning, and conversational memory to simulate a doctor-style assistant for medical insights.
 
 **Not for clinical use.** Outputs are for research and education only—not a diagnosis or treatment plan.
 
