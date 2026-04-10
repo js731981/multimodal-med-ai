@@ -1,0 +1,15 @@
+fastapi
+uvicorn[standard]
+gunicorn
+pydantic
+pydantic-settings
+python-dotenv
+redis
+qdrant-client
+torch
+torchvision
+numpy
+pillow
+opencv-python-headless
+scikit-learn
+streamlit>=1.33.0

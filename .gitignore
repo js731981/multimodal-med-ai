@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual env
+venv312/
+env/
+.venv/
+
+# Data
+data/
+*.csv
+*.parquet
+
+# Models
+models/
+*.pth
+*.pt
+
+# Logs
+*.log
+
+# Streamlit
+.streamlit/
+
+# OS
+.DS_Store
+Thumbs.db
